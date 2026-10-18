@@ -10,6 +10,9 @@
 - **骰子**：擲出一顆六面骰，顯示點數與數字。
 - **命運硬幣**：自訂正反面代表的內容，翻出選擇。
 
+  <img width="1440" height="1000" alt="desktop-home" src="https://github.com/user-attachments/assets/573d2048-d9be-4de0-bfce-0dadc952188c" />
+
+
 ## 使用與部署
 
 直接以瀏覽器開啟 `index.html` 即可使用。HTML、CSS、JavaScript、SVG 均包含在此檔案內；不需安裝套件、建置、帳號、後端、資料庫或外部 API。
